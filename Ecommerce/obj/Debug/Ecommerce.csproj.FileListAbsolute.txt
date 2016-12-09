@@ -1,0 +1,2 @@
+c:\users\karen\documents\visual studio 2015\Projects\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe.config
+C:\Github\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe.config
